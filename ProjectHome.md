@@ -1,0 +1,1 @@
+stegano in bitmap file
